@@ -1,0 +1,14 @@
+.tree {
+  background-color: #efefef;
+  height: 100%;
+  margin-left: 2vw;
+  font-family: monospace;
+}
+
+.inputBox {
+  width: 9vw;
+  height: 3.5vh;
+  border-radius: 20px;
+  border: 1px dashed;
+  margin-bottom: 0.5vh;
+}
